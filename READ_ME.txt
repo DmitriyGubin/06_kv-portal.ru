@@ -1,4 +1,5 @@
 Это фронтенд для страниц сайта https://kv-portal.ru/. Мной выполнялся так же бенкенд на Битриксе. Страницы:
+0) https://kv-portal.ru/
 1) https://kv-portal.ru/info/
 2) https://kv-portal.ru/info/natalya-skripkina/ и др.
 3) https://kv-portal.ru/grade/

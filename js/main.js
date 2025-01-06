@@ -613,3 +613,13 @@ function Scroll_to_element(selector)
         });
 }
 
+$(".phone").mask("+7(999) 999-9999");
+
+$hide_box = $('.about_us .col_item.hide_mobile');
+$('.about_us .more_info').on('click', function(){
+    $(this).addClass('hide');
+    $hide_box.slideToggle(500);
+});
+
+
+
